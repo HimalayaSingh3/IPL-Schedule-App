@@ -9,8 +9,8 @@ const CricketApi = () => {
       method: "GET",
       url: "https://free-cricbuzz-cricket-api.p.rapidapi.com/cricket-schedule-league",
       headers: {
-        "x-rapidapi-key": import.meta.env.VITE_RAPID_API_KEY,
-        "x-rapidapi-host":import.meta.env.VITE_RAPID_API_HOST,
+        "x-rapidapi-key": "f5120e5f09msh92004fdd6cbeb2ap12d4e7jsnb9e6023dc776",
+        "x-rapidapi-host": "free-cricbuzz-cricket-api.p.rapidapi.com",
       },
     };
 
